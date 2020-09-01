@@ -10,7 +10,7 @@ group :development, :test do
   gem 'bundler'
   gem 'hashie'
   gem 'rake'
-  gem 'rubocop', '0.84.0'
+  gem 'rubocop', '0.90.0'
   gem 'rubocop-performance', require: false
 end
 
